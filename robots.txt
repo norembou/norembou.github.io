@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://norembou.github.io/sitemap.norembou.gz
+Sitemap: https://norembou.github.io/app/sitemap.norembou.gz
+Sitemap: https://norembou.github.io/assets/sitemap.norembou.gz
+Sitemap: https://norembou.github.io/css/sitemap.norembou.gz
+Sitemap: https://norembou.github.io/data/sitemap.norembou.gz
+Sitemap: https://norembou.github.io/includes/sitemap.norembou.gz
+Sitemap: https://norembou.github.io/item/sitemap.norembou.gz
+Sitemap: https://norembou.github.io/src/sitemap.norembou.gz
